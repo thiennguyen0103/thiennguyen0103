@@ -2,9 +2,6 @@
 <a href="https://www.facebook.com/kirauit0103">
   <img align="left" alt="Kira's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-<a href="https://www.instagram.com/thiennguyen2035/">
-  <img align="left" alt="Kira's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a>
 <a href="https://twitter.com/kiranguyen0103">
   <img align="left" alt="Kira's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -12,7 +9,7 @@
   <img align="left" alt="Kira's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.reddit.com/user/kira0103">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
 <a href="https://open.spotify.com/user/3174npr4lkeotekqxoy7ndcfkxdy">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
