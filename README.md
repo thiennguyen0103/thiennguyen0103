@@ -1,4 +1,4 @@
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey, Nice to see you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.facebook.com/kirauit0103">
   <img align="left" alt="Kira's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
@@ -18,10 +18,11 @@
 <br><br/>
 
 Hi, I'm Kira - the student of the University of Information Technology (UIT). My dream is to become a Full Web Stack Developer. My passion lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+<p align="center">
+  <img alt="GIF" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/code.gif?raw=true" width="500" height="320" />  
+</p>
 
-<img align="center" alt="GIF" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/code.gif?raw=true" width="500" height="320" />
-
-## Languages and tools:
+## 💻 Languages and tools:
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
