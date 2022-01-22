@@ -41,7 +41,8 @@ Hi, I'm Kira - the student of the University of Information Technology (UIT). My
 
 ## 📈 My github stats
 <img src="https://github-readme-stats.vercel.app/api?username=Kira-UIT&show_icons=true&theme=gotham" alt="kira-uit" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kira-UIT&theme=tokyonight&layout=compact&langs_count=6">
+<img src="https://github.com/Kira-UIT/github-stats-kira/blob/master/generated/overview.svg">
+<img src="https://github.com/Kira-UIT/github-stats-kira/blob/master/generated/languages.svg">
 ![](https://github.com/Kira-UIT/github-stats-kira/blob/master/generated/overview.svg)
 ![](https://github.com/Kira-UIT/github-stats-kira/blob/master/generated/languages.svg)
 
