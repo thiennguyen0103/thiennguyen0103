@@ -45,8 +45,8 @@ Hi, I'm Kira - the student of the University of Information Technology (UIT). My
   <img src="https://github.com/Kira-UIT/github-stats-kira/blob/master/generated/overview.svg">
   <img src="https://github.com/Kira-UIT/github-stats-kira/blob/master/generated/languages.svg">
 </p>
-![](https://raw.githubusercontent.com/Kira-UIT/github-stats-kira/blob/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/Kira-UIT/github-stats-kira/blob/master/generated/languages.svg)
+![ScreenShot](https://raw.githubusercontent.com/Kira-UIT/github-stats-kira/blob/master/generated/overview.svg)
+![ScreenShot](https://raw.githubusercontent.com/Kira-UIT/github-stats-kira/blob/master/generated/languages.svg)
 
 
 <!--
