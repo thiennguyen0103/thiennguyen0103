@@ -45,9 +45,6 @@ Hi, I'm Kira - the student of the University of Information Technology (UIT). My
   <img src="https://github.com/Kira-UIT/github-stats-kira/blob/master/generated/overview.svg">
   <img src="https://github.com/Kira-UIT/github-stats-kira/blob/master/generated/languages.svg">
 </p>
-![ScreenShot](https://raw.githubusercontent.com/Kira-UIT/github-stats-kira/blob/master/generated/overview.svg)
-![ScreenShot](https://raw.githubusercontent.com/Kira-UIT/github-stats-kira/blob/master/generated/languages.svg)
-
 
 <!--
 **Kira-UIT/Kira-UIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
