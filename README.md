@@ -15,7 +15,7 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-<br />
+<br><br/>
 
 Hi, I'm Kira - the student of the University of Information Technology (UIT). My dream is to become a Full Web Stack Developer. My passion lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
