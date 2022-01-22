@@ -15,6 +15,14 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
+<br />
+
+Hi, I'm Kira - the student of the University of Information Technology (UIT). My dream is to become a Full Web Stack Developer. 
+
+Hi, I'm Kira - student of UIT a passionate self-taught full stack web developer and a freelance software engineer from india. My passion lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+<img align="right" alt="GIF" src="?raw=true" width="500" height="320" />
+
 <!--
 **Kira-UIT/Kira-UIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
