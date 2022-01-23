@@ -35,6 +35,7 @@ Hi, I'm Kira - the student of the University of Information Technology (UIT). My
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-1E405D?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Php" src="https://img.shields.io/badge/-React-8892BF?style=flat-square&logo=php&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-0468D7?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
