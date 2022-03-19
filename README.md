@@ -3,7 +3,7 @@
   <img align="left" alt="Kira's Facebook" width="22px" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/icons/facebook.svg" />
 </a>
 <a href="https://twitter.com/kiranguyen0103">
-  <img align="left" alt="Kira's Twitter" width="22px" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/icons/twitter.gif" />
+  <img align="left" alt="Kira's Twitter" width="22px" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/kira0103/">
   <img align="left" alt="Kira's LinkedIn" width="22px" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/icons/linkedin.svg" />
@@ -12,7 +12,7 @@
   <img align="left" alt="Kira's Reddit" width="22px" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/icons/reddit.svg" />
 </a>
 <a href="https://open.spotify.com/user/3174npr4lkeotekqxoy7ndcfkxdy">
-  <img align="left" alt="Kira's Spotify" width="22px" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/icons/icons8-spotify.gif" />
+  <img align="left" alt="Kira's Spotify" width="22px" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/icons/spotify.svg" />
 </a>
 
 <br><br/>
