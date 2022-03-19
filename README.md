@@ -1,18 +1,18 @@
 ## Hey, Nice to see you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.facebook.com/kirauit0103">
-  <img align="left" alt="Kira's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="Kira's Facebook" width="22px" src="https://github.com/Kira-UIT/Kira-UIT/tree/main/icons/facebook.svg" />
 </a>
 <a href="https://twitter.com/kiranguyen0103">
-  <img align="left" alt="Kira's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Kira's Twitter" width="22px" src="https://github.com/Kira-UIT/Kira-UIT/tree/main/icons/twitter.gif" />
 </a>
 <a href="https://www.linkedin.com/in/kira0103/">
-  <img align="left" alt="Kira's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Kira's LinkedIn" width="22px" src="https://github.com/Kira-UIT/Kira-UIT/tree/main/icons/linkedin.svg" />
 </a>
 <a href="https://www.reddit.com/user/kira0103">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+  <img align="left" alt="Kira's Reddit" width="22px" src="https://github.com/Kira-UIT/Kira-UIT/tree/main/icons/reddit.svg" />
 </a>
 <a href="https://open.spotify.com/user/3174npr4lkeotekqxoy7ndcfkxdy">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Kira's Spotify" width="22px" src="https://github.com/Kira-UIT/Kira-UIT/tree/main/icons/icons8-spotify.gif" />
 </a>
 
 <br><br/>
