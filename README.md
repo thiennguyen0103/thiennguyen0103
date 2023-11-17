@@ -17,7 +17,7 @@
 
 <br><br/>
 
-Hi, I'm Kira - the student of the University of Information Technology (UIT). My dream is to become a Full Stack Web Developer. My passion lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Kira - a University of Information Technology (UIT) student. My dream is to become a Full Stack Web Developer. My passion lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
 <p align="center">
   <img alt="GIF" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/code.gif?raw=true" width="500" height="320" />  
 </p>
@@ -42,9 +42,9 @@ Hi, I'm Kira - the student of the University of Information Technology (UIT). My
 </p>
 
 
-## 📈 My github stats
+## 📈 My Github stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kira-UIT&show_icons=true&theme=gotham" alt="kira-uit" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thiennguyen0103&show_icons=true&theme=gotham" alt="Kira" />
 </p>
 <p align="center">
   <img src="https://github.com/Kira-UIT/github-stats-kira/blob/master/generated/overview.svg">
