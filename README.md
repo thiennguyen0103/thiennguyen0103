@@ -8,7 +8,7 @@
 <br><br/>
 Hello, I'm Kira. I am a passionate Full Stack Developer with a strong foundation in React.js, Next.js, and a background in .NET technologies. Leveraging my expertise in front-end and back-end development, I thrive on creating seamless, user-centric applications that deliver exceptional user experiences.
 <p align="center">
-  <img alt="GIF" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/code.gif?raw=true" width="500" height="320" />  
+  <img alt="GIF" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/background.gif?raw=true" width="500" height="320" />  
 </p>
 
 ## 💻 Languages and tools:
