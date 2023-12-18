@@ -5,9 +5,6 @@
 <a href="https://www.linkedin.com/in/kira0103/">
   <img align="left" alt="Kira's LinkedIn" width="22px" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/icons/linkedin.svg" />
 </a>
-<a href="https://www.reddit.com/user/kira0103">
-  <img align="left" alt="Kira's Reddit" width="22px" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/icons/reddit.svg" />
-</a>
 <br><br/>
 Hello, I'm Kira. I am a passionate Full Stack Developer with a strong foundation in React.js, Next.js, and a background in .NET technologies. Leveraging my expertise in front-end and back-end development, I thrive on creating seamless, user-centric applications that deliver exceptional user experiences.
 <p align="center">
