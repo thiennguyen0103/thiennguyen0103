@@ -2,21 +2,13 @@
 <a href="https://www.facebook.com/kirauit0103">
   <img align="left" alt="Kira's Facebook" width="22px" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/icons/facebook.svg" />
 </a>
-<a href="https://twitter.com/kiranguyen0103">
-  <img align="left" alt="Kira's Twitter" width="22px" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/kira0103/">
   <img align="left" alt="Kira's LinkedIn" width="22px" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/icons/linkedin.svg" />
 </a>
 <a href="https://www.reddit.com/user/kira0103">
   <img align="left" alt="Kira's Reddit" width="22px" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/icons/reddit.svg" />
 </a>
-<a href="https://open.spotify.com/user/3174npr4lkeotekqxoy7ndcfkxdy">
-  <img align="left" alt="Kira's Spotify" width="22px" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/icons/spotify.svg" />
-</a>
-
 <br><br/>
-
 Hello, I'm Kira. I am a passionate Full Stack Developer with a strong foundation in React.js, Next.js, and a background in .NET technologies. Leveraging my expertise in front-end and back-end development, I thrive on creating seamless, user-centric applications that deliver exceptional user experiences.
 <p align="center">
   <img alt="GIF" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/code.gif?raw=true" width="500" height="320" />  
