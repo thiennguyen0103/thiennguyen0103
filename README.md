@@ -40,6 +40,10 @@ Hello, I'm Kira. I am a passionate Full Stack Developer with a strong foundation
   <img src="https://github.com/Kira-UIT/github-stats-kira/blob/master/generated/languages.svg">
 </p>
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@thiennguyen0103/30-nites-of-code)  
+  ![@thiennguyen0103 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=thiennguyen0103)
+
 <!--
 **Kira-UIT/Kira-UIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
