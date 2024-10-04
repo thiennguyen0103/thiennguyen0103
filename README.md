@@ -7,9 +7,10 @@
 </a>
 <br><br/>
 Hello, I'm Kira. I am a passionate Full Stack Developer with a strong foundation in React.js, Next.js, and a background in .NET technologies. Leveraging my expertise in front-end and back-end development, I thrive on creating seamless, user-centric applications that deliver exceptional user experiences.
-<p align="center">
-  <img alt="GIF" src="https://github.com/Kira-UIT/Kira-UIT/blob/main/background.gif?raw=true" width="500" height="320" />  
-</p>
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@thiennguyen0103/30-nites-of-code)  
+  ![@thiennguyen0103 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=thiennguyen0103)
 
 ## 💻 Languages and tools:
 <p>
@@ -39,10 +40,6 @@ Hello, I'm Kira. I am a passionate Full Stack Developer with a strong foundation
   <img src="https://github.com/Kira-UIT/github-stats-kira/blob/master/generated/overview.svg">
   <img src="https://github.com/Kira-UIT/github-stats-kira/blob/master/generated/languages.svg">
 </p>
-
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@thiennguyen0103/30-nites-of-code)  
-  ![@thiennguyen0103 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=thiennguyen0103)
 
 <!--
 **Kira-UIT/Kira-UIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
