@@ -8,10 +8,6 @@
 <br><br/>
 Hello, I'm Kira. I am a passionate Full Stack Developer with a strong foundation in React.js, Next.js, and a background in .NET technologies. Leveraging my expertise in front-end and back-end development, I thrive on creating seamless, user-centric applications that deliver exceptional user experiences.
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@thiennguyen0103/30-nites-of-code)  
-  ![@thiennguyen0103 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=thiennguyen0103)
-
 ## 💻 Languages and tools:
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=flat-square&logo=javascript&logoColor=white" />
