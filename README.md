@@ -33,8 +33,8 @@ Hello, I'm Kira. I am a passionate Full Stack Developer with a strong foundation
   <img src="https://github-readme-stats.vercel.app/api?username=thiennguyen0103&show_icons=true&theme=gotham" alt="Kira" />
 </p>
 <p align="center">
-  <img src="https://github.com/Kira-UIT/github-stats-kira/blob/master/generated/overview.svg">
-  <img src="https://github.com/Kira-UIT/github-stats-kira/blob/master/generated/languages.svg">
+  <img src="https://github.com/thiennguyen0103/github-stats-thiennguyen0103/blob/master/generated/overview.svg">
+  <img src="https://github.com/thiennguyen0103/github-stats-thiennguyen0103/blob/master/generated/languages.svg">
 </p>
 
 <!--
