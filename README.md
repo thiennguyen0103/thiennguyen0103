@@ -30,7 +30,8 @@ Hello, I'm Kira. I am a passionate Full Stack Developer with a strong foundation
 
 ## 📈 My Github stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiennguyen0103&show_icons=true&theme=gotham" alt="Kira" />
+  ![thiennguyen0103's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiennguyen0103&theme=tokyonight&hide_border=true)
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=thiennguyen0103&show_icons=true&theme=gotham" alt="Kira" /> -->
 </p>
 <p align="center">
   <img src="https://github.com/thiennguyen0103/github-stats-thiennguyen0103/blob/master/generated/overview.svg">
